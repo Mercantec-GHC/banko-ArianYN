@@ -1,0 +1,20 @@
+C:\Users\arian\source\repos\Banko Program\bin\Debug\net8.0-windows\Banko Program.exe
+C:\Users\arian\source\repos\Banko Program\bin\Debug\net8.0-windows\Banko Program.deps.json
+C:\Users\arian\source\repos\Banko Program\bin\Debug\net8.0-windows\Banko Program.runtimeconfig.json
+C:\Users\arian\source\repos\Banko Program\bin\Debug\net8.0-windows\Banko Program.dll
+C:\Users\arian\source\repos\Banko Program\bin\Debug\net8.0-windows\Banko Program.pdb
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\Banko Program_MarkupCompile.cache
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\Banko Program_MarkupCompile.lref
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\Banko Program.g.resources
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\Banko Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\Banko Program.AssemblyInfoInputs.cache
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\Banko Program.AssemblyInfo.cs
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\Banko Program.csproj.CoreCompileInputs.cache
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\Banko Program.dll
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\refint\Banko Program.dll
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\Banko Program.pdb
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\Banko Program.genruntimeconfig.cache
+C:\Users\arian\source\repos\Banko Program\obj\Debug\net8.0-windows\ref\Banko Program.dll

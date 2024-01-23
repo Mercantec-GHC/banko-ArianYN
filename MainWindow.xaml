@@ -1,0 +1,47 @@
+﻿<Window x:Class="Banko_Program.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Banko_Program"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="1100">
+    <Grid Background="#FFB3B3B3">
+        <TextBox x:Name="row2box6" HorizontalAlignment="Left" Margin="596,405,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="83" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row2box7" HorizontalAlignment="Left" Margin="694,405,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="83" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row2box8" HorizontalAlignment="Left" Margin="792,405,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="83" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row2box9" HorizontalAlignment="Left" Margin="890,405,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="83" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row3box6" HorizontalAlignment="Left" Margin="596,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row3box7" HorizontalAlignment="Left" Margin="694,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row3box8" HorizontalAlignment="Left" Margin="792,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row3box9" HorizontalAlignment="Left" Margin="890,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row1box6" HorizontalAlignment="Left" Margin="596,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row1box7" HorizontalAlignment="Left" Margin="694,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row1box8" HorizontalAlignment="Left" Margin="792,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row1box9" HorizontalAlignment="Left" Margin="890,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row2box2" HorizontalAlignment="Left" Margin="204,405,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="83" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row2box3" HorizontalAlignment="Left" Margin="302,405,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="83" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row2box4" HorizontalAlignment="Left" Margin="400,405,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="83" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row2box5" HorizontalAlignment="Left" Margin="498,405,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="83" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row3box2" HorizontalAlignment="Left" Margin="204,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row3box3" HorizontalAlignment="Left" Margin="302,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row3box4" HorizontalAlignment="Left" Margin="400,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row3box5" HorizontalAlignment="Left" Margin="498,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row1box2" HorizontalAlignment="Left" Margin="204,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row1box3" HorizontalAlignment="Left" Margin="302,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row1box4" HorizontalAlignment="Left" Margin="400,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row1box5" HorizontalAlignment="Left" Margin="498,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row2box1" HorizontalAlignment="Left" Margin="106,405,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="83" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row3box1" HorizontalAlignment="Left" Margin="106,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="row1box1" HorizontalAlignment="Left" Margin="106,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <ComboBox x:Name="choosePlate" HorizontalAlignment="Left" Margin="5,317,0,0" VerticalAlignment="Top" Width="94" Height="38" FontSize="18" SelectionChanged="ChoosePlate_SelectionChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="17,14,0,0" TextWrapping="Wrap" Text="Input Drawn Number:" VerticalAlignment="Top" FontWeight="Bold" FontSize="17"/>
+        <TextBox x:Name="drawnNumberInput" HorizontalAlignment="Left" Margin="52,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="92" Height="84" TextAlignment="Center" FontSize="35" VerticalContentAlignment="Center"/>
+        <Button Content="Input" HorizontalAlignment="Left" Margin="152,54,0,0" VerticalAlignment="Top" Height="60" Width="60" BorderBrush="Black" Background="#FF7D7D7D" Foreground="White" FontWeight="Bold" FontSize="17" Click="Button_Click"/>
+        <ListBox x:Name="drawnNumbersListBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="979,22,24,335" FontSize="15"/>
+        <ComboBox x:Name="gamePhase" HorizontalAlignment="Left" Margin="792,50,0,0" VerticalAlignment="Top" Width="172" Height="38" SelectionChanged="GamePhase_selectionChanged" FontSize="18"/>
+        <TextBlock HorizontalAlignment="Left" Margin="797,22,0,0" TextWrapping="Wrap" Text="Change Gamephase:" VerticalAlignment="Top" FontWeight="Bold" FontSize="17"/>
+        <TextBlock HorizontalAlignment="Left" Margin="418,109,0,0" TextWrapping="Wrap" Text="Banko" VerticalAlignment="Top" FontWeight="Bold" FontSize="75" Height="104" Width="224"/>
+
+    </Grid>
+</Window>
