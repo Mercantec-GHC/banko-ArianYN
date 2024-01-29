@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Banko_Program
+namespace BankoProgramRefactored
 {
     /// <summary>
     /// Interaction logic for App.xaml
